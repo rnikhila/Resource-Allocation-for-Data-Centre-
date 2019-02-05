@@ -1,0 +1,5 @@
+4
+small 1 1 1
+medium 8 2 4
+large 16 2 4
+xlarge 32 4 8
